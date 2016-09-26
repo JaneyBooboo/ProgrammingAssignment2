@@ -1,4 +1,4 @@
-# Assignment: to cache the invere of a square matrix
+# Assignment: to cache the inverse of a square matrix
 
 
 # creates a special square “matrix” object that can cache its inverse
